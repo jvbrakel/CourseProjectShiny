@@ -1,0 +1,8 @@
+name: CourseProjectShiny
+account: jvbrakel
+server: shinyapps.io
+bundleId: 362146
+url: https://jvbrakel.shinyapps.io/CourseProjectShiny/
+when: 1454179701.51166
+asMultiple: FALSE
+asStatic: FALSE

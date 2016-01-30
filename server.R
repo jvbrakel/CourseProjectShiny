@@ -7,7 +7,7 @@
 
 library(shiny)
 
-mpg <- function (wt, hp)  37.2 - 3.88 * wt - 0.03 * hp
+mpg <- function (wt, hp)  37.2 - 3.8778 * wt - 0.0318 * hp
 
 shinyServer(function(input, output) {
 

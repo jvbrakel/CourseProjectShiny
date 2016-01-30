@@ -33,31 +33,28 @@ Factors available :
 * carb,	Number of carburetors
 </font>
 
+
+
+
+
+
+
 The Model
 ========================================================
 --
-
-
-
-
-
-
-
-
 <font size="5"> 
 All factors were review, however not all factors had a heigh enough correlation (80+).
 Four factors had the heighest correlations, which are weight, horsepower, number of cylinders and displacement.
+
+![plot of chunk unnamed-chunk-4](ProjectShiny-figure/unnamed-chunk-4-1.png) 
 </font>
-
-<img src="ProjectShiny-figure/unnamed-chunk-4-1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" />
-
 ***
 <font size="5"> 
 The model with weight and horsepower factors resulted in the best models. The model results are included below.
 
 
 <!-- html table generated in R 3.1.2 by xtable 1.7-4 package -->
-<!-- Sat Jan 30 15:53:41 2016 -->
+<!-- Sat Jan 30 16:37:03 2016 -->
 <table border=1>
 <caption align="top"> Model 2 </caption>
 <tr> <th>  </th> <th> Estimate </th> <th> Std. Error </th> <th> t value </th> <th> Pr(&gt;|t|) </th>  </tr>
